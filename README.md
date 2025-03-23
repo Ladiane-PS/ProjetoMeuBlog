@@ -3,10 +3,6 @@
 # 📝 Meu Blog - Django
 Um blog simples desenvolvido com Django, onde é possível criar, listar e visualizar posts.
 
-Estudo 1 : Portal Unificado de Estágio e Emprego nos Institutos Federais
-Estudo 2 : Carga Horária Docente da Carreira EBTT
-Os estudos foram conduzidos no IFPA - Campus Belém sob a orientação do Prof. Dr. Paulo Henrique Bezerra , com a participação voluntária de discentes do curso de Análise e Desenvolvimento de Sistemas .
-
 ---
 
 **🚀 Funcionalidades**
